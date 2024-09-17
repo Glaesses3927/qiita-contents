@@ -1,10 +1,10 @@
 ---
 title: C言語で回転する立方体をつくる
 tags:
-  - 'C'
+  - C
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-09-17T19:12:31+09:00'
+id: 401b6891703dd919d296
 organization_url_name: null
 slide: false
 ignorePublish: false
