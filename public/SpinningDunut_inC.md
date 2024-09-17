@@ -1,10 +1,10 @@
 ---
 title: C言語で回転するドーナツをつくる
 tags:
-  - 'C'
+  - C
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-09-17T19:17:06+09:00'
+id: 6d91579d904fa88b9061
 organization_url_name: null
 slide: false
 ignorePublish: false
