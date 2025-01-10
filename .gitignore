@@ -1,2 +1,4 @@
 .remote
 node_modules
+public/secret_*.md
+.github/workflows/publish.yml
